@@ -2,9 +2,7 @@ body {
     background-image: url(images/headphones_hero_1.jpg);
 }
 
-@media screen and (max-width: 1000px) {
-    body { ba
-    }
+
 
 .logo {
     height: 32px;
@@ -117,6 +115,3 @@ nav {
     text-align: center;
     text-decoration: #071629;
 }
-
-.sectiontwo {
-    
