@@ -1,0 +1,122 @@
+body {
+    background-image: url(images/headphones_hero_1.jpg);
+}
+
+@media screen and (max-width: 1000px) {
+    body { ba
+    }
+
+.logo {
+    height: 32px;
+    width: 161px;
+    padding-left: 200.61px;
+    padding-top: 27.76px;
+}
+
+nav {
+    padding-left: 1100px;
+
+}
+
+
+
+.nav {
+    height: 15px;
+    font-weight: 600px;
+    line-height: 15.08px;
+    font-size: 12px;
+    margin-top: 27px;
+    color: #FFFFFF;
+    
+
+}
+
+@font-face {
+    font-family: nav;
+    src: url(source-sans-pro/SourceSansPro-Black.otf);
+}
+.whatwedo {
+    width: 61px;
+    padding-left: 946px;
+    color: #FFFFFF;
+
+}
+.ourresults {
+    width: 55px;
+    color: #FFFFFF;
+
+}
+
+.contactsus {
+    width: 57px;
+    padding-left: 200px;
+    color: #FFFFFF;
+
+}
+
+.headingone {
+    text-align: center;
+    line-height: 40.22px;
+    font-size: 32px;
+    font-weight: 700px;
+    color: #FFFFFF;
+    margin-top: 250px;
+}
+
+.button {
+    border-radius: 20px;
+    background-color: #FF6565;
+    color: #FFFFFF;
+    text-align: center;
+    width: 162px;
+    height: 44px;
+    display: block;
+    margin: auto;
+}
+
+.description {
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.firstparagraph {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.sectionone {
+    color: #FFFFFF;
+    align-content: center;
+    background-color: #FFFFFF;
+    
+}
+
+.whatdowedo {
+    text-align: center;
+    color: #071629
+}
+
+.secondparagraph {
+    text-align: center;
+    color: #071629;
+    font-size: 16px;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 4em;
+
+}
+
+.iconone {
+    text-align: center;
+    text-decoration: #071629;
+}
+
+.sectiontwo {
+    
