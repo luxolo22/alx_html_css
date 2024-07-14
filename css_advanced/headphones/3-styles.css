@@ -6,12 +6,38 @@ h1 {
 }
 
 form {
+    margin-left: 38%;
+    
+}
+.name {
+    font-size: 14px;
+    width: 335px;
+    height: 29px;
+    border-top: none;
     border-left: none;
     border-right: none;
-    border-top: none;
-    width: 335px;
 }
 
+.email {
+    font-size: 14px;
+    width: 335px;
+    height: 29px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 2%;
+}
+
+.message {
+    font-size: 14px;
+    width: 335px;
+    height: 29px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 2%;
+    
+}
 
 button {
     background-color: #FF6565;
@@ -20,6 +46,11 @@ button {
     border-radius: 20px;
     height: 44px;
     width: 162px;
-    margin-left: 620px;
-    margin-top: 1%;
+    margin-left: 627px;
+    margin-top: 4%;
+}
+
+.main-div {
+    margin-top: 16%;
+
 }
