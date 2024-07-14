@@ -1,0 +1,67 @@
+
+body {
+    height: 249px;
+    background-color: #071629;
+}
+
+.toplogo {
+    margin-top: 120.76px;
+    margin-left: 199.61px;
+    height: 32px;
+    width: 161px;
+}
+
+p {
+    width: 98px;
+    height: 15px;
+    margin-top: 195px;
+    margin-left: 651px;
+    gap: 0px;
+    opacity: 0.35px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.08px;
+    color: #FFFFFF;
+
+}
+
+.socials {
+    width: 30px;
+    height: 30px;
+}
+
+.socials-div {
+    display: flex;
+    gap: 1em;
+    margin-left: 700px;
+    margin-top: 120.76px;
+}
+
+.main-div {
+    display: flex;
+
+}
+.bird {
+    background-image: url('bird.svg');
+    background-size: auto 100%;
+    width: 88px;
+    height: 125px;
+    will-change: background-position;
+  }
+  @keyframes fly-cycle {
+    100% {
+    background-position: -900px 0;
+    } 
+  }
+  animation-name: fly-cycle;
+animation-timing-function: steps(10);
+animation-iteration-count: infinite;
+animation-duration: 1s;
+animation-delay: -0.5s;
+
+animation-name: fly-cycle;
+animation-timing-function: steps(10);
+animation-iteration-count: infinite;
+animation-duration: 1s;
+animation-delay: -0.5s;
+
