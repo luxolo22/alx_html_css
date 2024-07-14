@@ -1,0 +1,65 @@
+@font-face {
+    font-family: source sans pro;
+    src: url(source-sans-pro/SourceSansPro-Regular.otf);
+}   
+
+ 
+body {
+    background-color: #FFFFFF;
+}
+
+
+h1 {
+    text-align: center;
+    color: #071629;
+    font-size: 32px;
+    line-height: 37.5px;
+    margin-top: 7%;
+}
+
+.paraone {
+    text-align: center;
+    color: #071629;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 75px;
+
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 8em;
+    text-align: center;
+    margin-top: 190px;
+    font-size: 14px;
+    line-height: 26px;
+
+}
+ h3 {
+    font-size: 18px;
+ }
+
+ .soundone {
+    height: 65.36px;
+    width: 94.2px;
+ }
+ .soundtwo {
+    height: 76.8px;
+    width: 67.59px;
+    margin-bottom: -7%;
+ }
+ .soundthree {
+    height: 57.27px;
+    width: 51.66px;
+   
+ }
+ .soundfour {
+    height: 61.44px;
+    width: 61.43px;
+ }
+
+ .wrap {
+    margin-top: 8px
+ }

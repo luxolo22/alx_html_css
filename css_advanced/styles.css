@@ -76,14 +76,7 @@ h1 {
 }
 
 .tutorials {
-    background-color: #FFFFFF;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 6em;
-
+    align-content: center;
 }
 
 
@@ -129,7 +122,7 @@ h1 {
 
 .presenterimg {
     margin-left: 270px;
-    margin-top: 50px;
+    margin-top: px;
 }
 .qoute {
     float: right;
